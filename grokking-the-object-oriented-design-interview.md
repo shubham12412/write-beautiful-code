@@ -73,6 +73,26 @@ https://www.educative.io/courses/grokking-the-object-oriented-design-interview/3
 10) Design a Restaurant Management system
 https://www.educative.io/courses/grokking-the-object-oriented-design-interview/xV8p1GA6K0r
 
+11) Design Chess
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/JP7BXYkj3DK
+
+12) Design an Online Stock Brokerage System
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/RM8ol3m2o3w
+
+13) Design a Car Rental System
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/B8QoxDl6YON
+
+14) Design LinkedIn
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxMOMDVKlBk
+
+15) Design Cricinfo
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/YQ7lDLlNl5A
+
+16) Design Facebook - a social network
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/7n94JNyPOMw
+
+
+
 
 
 
