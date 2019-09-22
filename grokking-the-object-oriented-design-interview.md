@@ -41,6 +41,38 @@ These are the different types of relationships between classes:
 
 
 
+------------------------------------------------------------------------------------------------------------------
+
+1) Design a Library Management System
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/RMlM3NgjAyR
+
+2) Design a Parking Lot
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxM3gRxmr8Z
+
+3) Design Amazon - Online Shopping System
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/Bn8PMllro6Q
+
+4) Design Stack Overflow
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/m2YWoEq06AR
+
+5) Design a Movie Ticket Booking System
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxkvNgMqDk3
+
+6) Design an ATM
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/m22LWKgQ4Wr
+
+
+7)
+
+
+8)
+
+9)
+
+10)
+
+
+
 
 
 
