@@ -61,15 +61,19 @@ https://www.educative.io/courses/grokking-the-object-oriented-design-interview/g
 6) Design an ATM
 https://www.educative.io/courses/grokking-the-object-oriented-design-interview/m22LWKgQ4Wr
 
+7) Design an Airline Management System
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/RMjqP6Vw98R
 
-7)
+8) Design Blackjack and a Deck of Cards
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/YQ5gm2APRnp
+
+9) Design a Hotel Management System
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/39Ek39vZBy9
+
+10) Design a Restaurant Management system
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/xV8p1GA6K0r
 
 
-8)
-
-9)
-
-10)
 
 
 
