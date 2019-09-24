@@ -16,6 +16,19 @@ https://github.com/shubham12412/write-beautiful-code/tree/master/code/Object-Ori
 
 2) Static Polymorphism. Another technique for conforming to the OCP is through the use of templates or generics. 
 
+---------------------------------------------------------------------------------------------------------------
+
+### Architectural Goals of the OCP. 
+By using these techniques to conform to the OCP, we can create modules that are extensible, without being changed. 
+This means that, with a little forethought, we can add new features to existing code, without changing the existing code 
+and by only adding new code. 
+
+
+Even if the OCP cannot be fully achieved, even partial OCP compliance can make dramatic improvements in the structure of an application. It is always better if changes do not propogate into existing code that already works. If you don’t have to
+change working code, you aren’t likely to break it.
+
+
+
 
 
 
