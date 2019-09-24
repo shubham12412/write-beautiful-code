@@ -14,5 +14,9 @@ https://github.com/shubham12412/write-beautiful-code/blob/master/code/Object-Ori
 https://github.com/shubham12412/write-beautiful-code/tree/master/code/Object-Oriented-Class-Design-Principles/open-closed-principle/src/org/shubham/tutorial/ocp/usingdynamicpolymorphism
 
 
-2) 
+2) Static Polymorphism. Another technique for conforming to the OCP is through the use of templates or generics. 
+
+
+
+
 
