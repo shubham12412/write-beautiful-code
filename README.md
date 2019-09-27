@@ -11,3 +11,6 @@ https://github.com/shubham12412/write-beautiful-code/blob/master/Liskov-Substitu
 https://github.com/shubham12412/write-beautiful-code/blob/master/Dependency-Inversion-Principle.md
 
 
+4) ISP - Interface Segregation Principle
+
+https://github.com/shubham12412/write-beautiful-code/blob/master/Interface-Segregation-Principle.md
