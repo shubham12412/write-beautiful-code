@@ -22,4 +22,6 @@
 
 12) https://www.linkedin.com/learning/search?entityType=COURSE&keywords=good%20programming%20practice
 
-13) 
+13) software coupling and cohesion
+
+14) Principles of Object Oriented Class Design
