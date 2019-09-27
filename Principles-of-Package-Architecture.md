@@ -41,6 +41,41 @@ The same can happen with packages if classes that are not used together are grou
 
 ### Tension between the Package Cohesion Principles
 
+***These three principles are mutually exclusive. They cannot simultaneously be satisfied. That is because each principle benefits a different group of people***. 
+
+The REP and CRP makes life easy for reusers, whereas the CCP makes life easier for maintainers.
+
+The CCP strives to make packages as large as possible (after all, if all the classes liv in just one package, then only one package will ever change). The CRP, however, tries to make packages very small. 
+
+
+Fortunately, packages are not fixed in stone. Indeed, it is the nature of packages to shift and jitter during the course of development. Early in a project, architects may set up the package structure such that CCP dominates and develoipment and maintenance is aided. Later, as the architecture stabilizes, the architects may refactor the package structure to maximize REP and CRP for the external reusers.
+
+----------------------------------------------------------------------------------------------------------------
+
+
+### The Package Coupling Principles.
+The next three packages govern the interlationships between packages. 
+
+***Applications tend to be large networks of interlated packages. The rules that govern these interrelationship are some of the most important rules in object oriented architecture.***
+
+
+1) The ***Acyclic Dependencies Principle*** (ADP)
+
+***The dependencies betwen packages must not form cycles***
+
+Since packages are the granule of release, they also tend to focus manpower. Engineers will typically work inside a single package rather than working on dozens. This tedency is amplified by the package cohesion principles, since they tend to group 
+together those classes that are related. Thus, engineers will find that their changes are directed into just a few package. Once those changes are made, they can release those packages to the rest of the project.
+
+Before they can do this release, however, they must test that the package works. To do that, they must compile and build it with all the packages that it depends upon.Hopefully this number is small. 
+
+
+
+
+
+
+
+
+
 
 
 
